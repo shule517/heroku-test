@@ -19,9 +19,5 @@
   "homepage": "https://github.com/shule517/heroku-test#readme",
   "devDependencies": {
     "express": "^4.14.0"
-  },
-  "engines": {
-    "node": "v4.1.X",
-    "npm": "2.14.X"
   }
 }
